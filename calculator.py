@@ -50,10 +50,7 @@ def button_div():
 
 def button_clear():
     e.delete(0, END)
-
-def button_hello():
     
-
 
 def button_equal():
     second_number = e.get()
